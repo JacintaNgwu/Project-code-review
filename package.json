@@ -1,0 +1,20 @@
+{
+  "name": "Project-code-review",
+  "version": "1.0.0",
+  "description": "In this project, I am to perform code review on one of my previous projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacintaNgwu/Project-code-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacintaNgwu/Project-code-review/issues"
+  },
+  "homepage": "https://github.com/JacintaNgwu/Project-code-review#readme"
+}
